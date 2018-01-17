@@ -1,5 +1,5 @@
 /* 
- * File:   goramit.c
+ * File:   Control.c
  * Author: Javier Vazquez
  *
  * Created on 19 de mayo de 2017, 02:04 AM
